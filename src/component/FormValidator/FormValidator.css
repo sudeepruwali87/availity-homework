@@ -1,0 +1,23 @@
+.form{
+    width: 100%;
+}
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url('../../AV_Logo_RGB.jpg');
+}
+
+.registration-form {
+    background: rgba(255, 255, 255, 0.8);
+    /* Semi-transparent white */
+    padding: 2rem;
+    border-radius: 0.5rem;
+    width: 100%;
+    max-width: 500px;
+}
+
+.form-heading {
+    margin-bottom: 1.5rem;
+}

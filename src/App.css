@@ -1,0 +1,10 @@
+*{
+  background-color: rgb(234, 234, 234);
+}
+.btn {
+  margin: 10px;
+
+  text-decoration: none;
+
+  color: white;
+}
