@@ -1,2 +1,2 @@
 npm install
-npm sart
+npm start
