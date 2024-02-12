@@ -69,6 +69,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+### For Question 1
+1.	Tell me about something you have read recently that you would recommend and why. (Can be a Github Repo, Article, Blog, Book, etc.)
+
+   -	Recently, I've been reading book  "System Design Interview – An Insider's Guide Volume 2" by Alex Xu and Sahn Lam ,along with their blog "ByteByteGo" and their YouTube channel, which offers lots insights into system design. I thinks It's an excellent resource for anyone looking to sharpen their understanding of designing scalable systems, preparing for interviews, or just enhancing their software engineering knowledge. The practical approach, real-world examples, and clear explanations make complex concepts accessible. I highly recommend it to anyone interested in mastering system design.
 
 ### For Question 2 and 3
  - git clone : https://github.com/sudeepruwali87/availity-homework.git
@@ -79,4 +83,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### For question 4.
  - stay on base directory.
  - chmod +x csv-reader.sh
- - ./ csv-reader.sh . It will Run enrollment-file.csv and seprate employees based on employee file
+ - ./ csv-reader.sh . It will Run enrollment-file.csv and separate employees based on employee file
